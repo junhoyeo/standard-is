@@ -1,7 +1,25 @@
-<h1>
-Standard <br />
-솔탈 및 인싸 생활을 위한 표준 대화법
-</h1>
+<p align="center">
+  <a href="https://github.com/junhoyeo">
+    <img alt="Bento" src="./public/logo.svg" height="256px" />
+  </a>
+  <h1 align="center">
+    Standard.IS <br />
+    솔탈 및 인싸 생활을 위한 표준 대화법
+  </h1>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/junhoyeo">
+    <img alt="Life style: Standard" src="https://img.shields.io/badge/life_style-standard-white.svg?style=for-the-badge&labelColor=000" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge&labelColor=000" />
+  </a>
+  <a href="https://twitter.com/_junhoyeo_">
+    <img alt="Twitter" src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&labelColor=000000&logoWidth=20&logoColor=white" />
+  </a>
+</p>
 
 > **Warning**<br/>
 > 모든 내용이 프로덕션 환경에서 검증된 것은 아닙니다. Battle test가 가능하다면, 이후 결과를 Issue, PR을 통해 기록해 주세요.
