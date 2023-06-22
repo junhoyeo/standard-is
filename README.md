@@ -124,6 +124,7 @@
 
 - `;`는 절대 이용하지 말자. [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
   - 삐지면 그냥 `흥` 정도를 이용한다.
+  - 상대가 개발자 군에 속한다면, 이따금씩 문장을 마무리할 때 사용해도 좋다. [스파르타코딩클럽 2023 제1회 코딩문학제](https://www.codingmoonhak.com/)
 
 - `!`, `?` 등의 특수기호는 두 개씩 붙이고, 가끔은 `~`를 그 앞에 붙인다.
 - `...` 등을 말 끝에 붙이는 것 역시 많이 사용되지만 지나치게 많이 사용하면 소심하거나 우울해 보일 수 있다(줄이려고 노력하는 것이 좋다).
